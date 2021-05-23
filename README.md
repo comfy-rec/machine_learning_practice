@@ -23,3 +23,17 @@
   meta learning, emsemble, bagging, stacking, voting, boosting, adaptive boosting, gradient boosting
 
   dimension reduction, early stopping
+
+- unsupervised learning
+
+  clustering
+  
+  dependency structure
+  
+  vector quantization
+  
+  dimensionality reduction
+
+- reinforcement learning
+
+  markov decision process
