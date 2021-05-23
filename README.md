@@ -2,7 +2,7 @@
 
 jupyter notebook, python, numpy, matplotlib, scikit-learn, pandas, tensorflow, keras, anaconda
 
-- supervised learning
++ supervised learning
 
 - housing prediction
 
