@@ -2,9 +2,9 @@
 
 jupyter notebook, python, numpy, matplotlib, scikit-learn, pandas, tensorflow, keras, anaconda
 
--supervised learning
+- supervised learning
 
-housing prediction
+-housing prediction
 
 preprocessing, dataframe, histogram, data split, visualization, scatter matrix, one hot encoding, pipeline
 
@@ -12,7 +12,7 @@ linear regression, decision tree, random forest, mean squared error, cross valid
 
 feature, label, overfitting, regularization, hyperparameter, underfitting
 
-mnist
+-mnist
 
 classification
 
