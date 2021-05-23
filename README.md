@@ -4,7 +4,7 @@ jupyter notebook, python, numpy, matplotlib, scikit-learn, pandas, tensorflow, k
 
 - supervised learning
 
-. housing prediction
+- housing prediction
 
   preprocessing, dataframe, histogram, data split, visualization, scatter matrix, one hot encoding, pipeline
 
@@ -12,7 +12,7 @@ jupyter notebook, python, numpy, matplotlib, scikit-learn, pandas, tensorflow, k
 
   feature, label, overfitting, regularization, hyperparameter, underfitting
 
-. mnist
+- mnist
 
   classification
 
