@@ -26,13 +26,7 @@
 
 - unsupervised learning
 
-  clustering
-  
-  dependency structure
-  
-  vector quantization
-  
-  dimensionality reduction
+  clustering, dependency structure, vector quantization, dimensionality reduction
 
 - reinforcement learning
 
