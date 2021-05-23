@@ -6,4 +6,6 @@ preprocessing, dataframe, histogram, data split, visualization, scatter matrix, 
 
 linear regression, decision tree, random forest, mean squared error, cross validation, grid search, randomized search
 
-feature, overfitting, regularization, hyperparameter, underfitting
+feature, label, overfitting, regularization, hyperparameter, underfitting
+
+housing perdiction
