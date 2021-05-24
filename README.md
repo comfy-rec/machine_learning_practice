@@ -1,6 +1,6 @@
 # supervised learning
 
-- housing prediction
+## housing prediction
 
   preprocessing, dataframe, histogram, data split, visualization, scatter matrix, one hot encoding, pipeline
 
@@ -8,7 +8,7 @@
 
   feature, label, overfitting, regularization, hyperparameter, underfitting
 
-- mnist
+## mnist
 
   classification
 
@@ -24,10 +24,10 @@
 
   dimension reduction, early stopping
 
-- unsupervised learning
+## unsupervised learning
 
   clustering, dependency structure, vector quantization, dimensionality reduction
 
-- reinforcement learning
+## reinforcement learning
 
   markov decision process
