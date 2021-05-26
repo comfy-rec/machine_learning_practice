@@ -2,30 +2,20 @@
 
 ## housing prediction
 
-preprocessing, dataframe, histogram, data split, visualization, scatter matrix, one hot encoding, pipeline
-
-linear regression, decision tree, random forest, mean squared error, cross validation, grid search, randomized search
-
+preprocessing, dataframe, histogram, data split, visualization, scatter matrix, one hot encoding, pipeline  
+linear regression, decision tree, random forest, mean squared error, cross validation, grid search, randomized search  
 feature, label, overfitting, regularization, hyperparameter, underfitting
   
 ## requirements
 
-graphviz 2.38
-
-jupyter 1.0.0
-
-matplotlib 3.3.4
-
-notebook 6.3.0
-
-numpy 1.20.1
-
-pandas 1.2.4
-
-python-graphviz 0.16
-
-python 3.9.4
-
+graphviz 2.38  
+jupyter 1.0.0  
+matplotlib 3.3.4  
+notebook 6.3.0  
+numpy 1.20.1  
+pandas 1.2.4  
+python-graphviz 0.16  
+python 3.9.4  
 scikit-learn 0.24.1
 
 ## mnist
