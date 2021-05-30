@@ -32,7 +32,7 @@ confusion matrix, roc(receiver operating characteristic) curve
 
 logistic regression, support vector machine, margin, kernel, entropy, gini impurity
 
-meta learning, emsemble, bagging, stacking, voting, boosting, adaptive boosting, gradient boosting
+meta learning, ensemble, bagging, stacking, voting, boosting, adaptive boosting, gradient boosting
 
 dimension reduction, early stopping
 
