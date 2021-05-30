@@ -1,11 +1,5 @@
 # supervised learning
 
-## housing prediction
-
-preprocessing, dataframe, histogram, data split, visualization, scatter matrix, one hot encoding, pipeline  
-linear regression, decision tree, random forest, mean squared error, cross validation, grid search, randomized search  
-feature, label, overfitting, regularization, hyperparameter, underfitting
-  
 ## requirements
 
 graphviz 2.38  
@@ -17,6 +11,14 @@ pandas 1.2.4
 python-graphviz 0.16  
 python 3.9.4  
 scikit-learn 0.24.1
+
+## housing prediction
+
+preprocessing, dataframe, histogram, data split, visualization, scatter matrix, one hot encoding, pipeline
+
+linear regression, decision tree, random forest, mean squared error, cross validation, grid search, randomized search
+
+feature, label, overfitting, regularization, hyperparameter, underfitting
 
 ## mnist
 
@@ -34,10 +36,10 @@ meta learning, emsemble, bagging, stacking, voting, boosting, adaptive boosting,
 
 dimension reduction, early stopping
 
-## unsupervised learning
+# unsupervised learning
 
 clustering, dependency structure, vector quantization, dimensionality reduction
 
-## reinforcement learning
+# reinforcement learning
 
 markov decision process
